@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "123-456-7890"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "phone": "098-765-4321"
+    },
+    {
+      "id": "00b2",
+      "name": "Jimmy john",
+      "email": "jimmy@example.com",
+      "phone": "321-654-0987"
+    },
+    {
+      "id": "e099",
+      "name": "Prateek Thakur",
+      "email": "p@gmail.com",
+      "phone": "335554422"
+    }
+  ]
+}
